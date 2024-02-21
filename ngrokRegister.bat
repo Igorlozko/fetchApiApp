@@ -1,0 +1,1 @@
+cmd /k c:\fsd\bin\ngrok config add-authtoken 2YVS971Mw8pufgqsOGmCm1xaF19_4wLpKCAZm8jzHwMG98BqU
